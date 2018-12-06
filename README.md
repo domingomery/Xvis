@@ -1,2 +1,2 @@
 # Xvis
-Computer vision for X-ray testin
+Computer vision for X-ray testing
