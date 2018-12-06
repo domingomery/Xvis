@@ -10,7 +10,7 @@ In addition, Xvis Toolbox includes a general framework that designs a computer v
 References:
 - Mery, D. (2015): [Computer Vision for X-ray Testing](http://dmery.ing.puc.cl/index.php/book/), Springer.
 
-- Mery, D.; Riffo, V.; Zscherpel, U.; Mondragón, G.; Lillo, I.; Zuccar, I.; Lobel, H.; Carrasco, M. (2015): [GDXray: The database of X-ray images for nondestructive testing](http://dmery.sitios.ing.uc.cl/Prints/ISI-Journals/2015-JNDE-GDXray.pdf/). Journal of Nondestructive Evaluation, 34.4:1-12.
+- Mery, D.; Riffo, V.; Zscherpel, U.; Mondragón, G.; Lillo, I.; Zuccar, I.; Lobel, H.; Carrasco, M. (2015): [GDXray: The database of X-ray images for nondestructive testing](http://dmery.sitios.ing.uc.cl/Prints/ISI-Journals/2015-JNDE-GDXray.pdf). Journal of Nondestructive Evaluation, 34.4:1-12.
 
 - [GDXray database](http://dmery.ing.puc.cl/index.php/material/gdxray/).
 
