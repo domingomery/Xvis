@@ -1,5 +1,5 @@
 # Xvis
-Computer vision for X-ray testing
+Toolbox for Computer vision for X-ray testing 
 
 Xvis is the Matlab Toolbox of the book Computer Vision for X-ray Testing by Domingo Mery. In this book we use many commands of Xvis, i.e. a Matlab Toolbox that we developed for X-ray testing with computer vision. Xvis Tolbox contains approximately 150 functions for image processing, feature extraction, feature transformation, feature analysis, feature selection, data selection and generation, classification, clustering, performance evaluation, multiple-view analysis, image sequence processing and tracking with geometrical constraints. 
 
