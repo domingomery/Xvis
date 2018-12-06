@@ -7,7 +7,7 @@ Commands of Xvis starts with letter 'X'. For example Ximmedian corresponds to th
 
 In addition, Xvis Toolbox includes a general framework that designs a computer vision system automatically in few lines code, or using two powerful graphic user interfaces one for feature extraction and for feature and classifier selection. It finds the features and the classifiers for a given visual task avoiding the classical trial and error framework commonly used by human designers.
 
-Xvis can work perfectly with GDXray, a collection of more than 19.400 X-ray images for the development, testing and evaluation of image analysis and computer vision algorithms. The X-ray images included in GDXray can be used free of charge, for research and educational purposes only. Redistribution and commercial use is prohibited.  GDXray includes five groups of images: Castings, Welds, Baggage, Nature and Settings.
+Xvis can work perfectly with GDXray, a collection of more than 19.400 X-ray images for the development, testing and evaluation of image analysis and computer vision algorithms. GDXray includes five groups of images: Castings, Welds, Baggage, Nature and Settings.
 
 
 References:
