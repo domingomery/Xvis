@@ -14,7 +14,7 @@
 %
 % Example:
 %
-%    nimg = Xgdseriesnum('C',3);
+%    nimg = Xgdxseriesnum('C',3);
 
 function nimg = Xgdxseriesnum(group,series)
 

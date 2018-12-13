@@ -1,4 +1,4 @@
-% function [X,GTdata] = XshowGT(group,series,k,GTfile)
+% function [X,GTdata] = XshowGT(group,series,k,GTfile,col,map)
 %
 % Toolbox Xvis: Display ground truth for image k of series/group
 %
