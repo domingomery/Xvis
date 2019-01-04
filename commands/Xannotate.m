@@ -153,14 +153,14 @@ global d k n bb I
 
 disp('Select top corner of bounding box...')
 figure(1)
-%p = ginput(1);
-%i1 = p(1,2); j1 = p(1,1);                                  % coordinates of first corner
-[j1,i1] = ginputc(1,'Color','r');
+p = ginput(1);
+i1 = p(1,2); j1 = p(1,1);                                  % coordinates of first corner
+% [j1,i1] = ginputc(1,'Color','r');
 plot(j1,i1,'r+')
 disp('Select bottom corner of bounding box...')
-%p = ginputc(1);
-%i2 = p(1,2); j2 = p(1,1);                                  % coordinates of second corner
-[j2,i2] = ginputc(1,'Color','r');
+p = ginput(1);
+i2 = p(1,2); j2 = p(1,1);                                  % coordinates of second corner
+% [j2,i2] = ginputc(1,'Color','r');
 if i1>i2
     s = i1;
     i1 = i2;
